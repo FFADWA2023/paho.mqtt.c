@@ -1,0 +1,4 @@
+<map id="Publish" name="Publish">
+<area shape="rect" id="node1" title="Data for a publish packet." alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node2" href="$unionHeader.html" title="Bitfields for the MQTT header byte." alt="" coords="6,5,70,32"/>
+</map>

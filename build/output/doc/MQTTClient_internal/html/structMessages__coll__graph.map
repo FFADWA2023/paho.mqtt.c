@@ -1,0 +1,4 @@
+<map id="Messages" name="Messages">
+<area shape="rect" id="node1" title="Client publication message data." alt="" coords="11,95,93,121"/>
+<area shape="rect" id="node2" href="$structPublications.html" title="Stored publication data to minimize copying." alt="" coords="5,5,99,32"/>
+</map>

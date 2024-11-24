@@ -1,0 +1,6 @@
+<map id="MQTTProtocol_createMessage" name="MQTTProtocol_createMessage">
+<area shape="rect" id="node1" title="Copy and store message data for retries." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$MQTTProtocolClient_8c.html#ac753a3ad12292a0a9c2f4343bd33817e" title="Store message data for possible retry." alt="" coords="256,5,463,32"/>
+<area shape="rect" id="node3" href="$Heap_8c.html#a0f10ff94faca02a6f81953c889802954" title="Utility to find an item in the heap." alt="" coords="511,5,617,32"/>
+<area shape="rect" id="node4" href="$Thread_8c.html#a7e92185eb22775c76e1b6b8865468f17" title="Lock a mutex which has alrea." alt="" coords="665,5,800,32"/>
+</map>

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/MQTTVersion.dir/MQTTVersion.c.o -o MQTTVersion  -Wl,-rpath,/home/fadwaj/paho.mqtt.c/build/src: libpaho-mqtt3a.so.1.2.1 libpaho-mqtt3c.so.1.2.1 -lc -ldl -lpthread 

@@ -1,0 +1,4 @@
+<map id="MQTTAsync_assignMsgId" name="MQTTAsync_assignMsgId">
+<area shape="rect" id="node1" title="Assign a new message id for a client." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$Thread_8c.html#a216e79bc196440343aa802dfad8dc38b" title="Get the thread id of the thread from which this function is called." alt="" coords="229,5,327,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MQTTAsync_struct" name="MQTTAsync_struct">
+<area shape="rect" id="node1" title=" " alt="" coords="629,364,764,391"/>
+<area shape="rect" id="node2" href="$structClients.html" title="Data related to one client." alt="" coords="333,245,396,272"/>
+<area shape="rect" id="node3" href="$structMQTTClient__persistence.html" title="A structure containing the function pointers to a persistence implementation and the context or state..." alt="" coords="5,127,172,153"/>
+<area shape="rect" id="node4" href="$structwillMessages.html" title="Client will message data." alt="" coords="197,127,298,153"/>
+<area shape="rect" id="node5" href="$structnetworkHandles.html" title=" " alt="" coords="323,127,439,153"/>
+<area shape="rect" id="node6" href="$structList.html" title="Structure to hold all data for one list." alt="" coords="492,127,536,153"/>
+<area shape="rect" id="node7" href="$structListElementStruct.html" title="Structure to hold all data for one list element." alt="" coords="451,7,577,33"/>
+<area shape="rect" id="node8" href="$structMQTTAsync__command.html" title=" " alt="" coords="617,245,776,272"/>
+<area shape="rect" id="node9" href="$structMQTTAsync__createOptions.html" title=" " alt="" coords="800,245,983,272"/>
+<area shape="rect" id="node10" href="$structMQTTPacket.html" title="Data for a packet with header only." alt="" coords="1007,245,1107,272"/>
+<area shape="rect" id="node11" href="$unionHeader.html" title="Bitfields for the MQTT header byte." alt="" coords="1025,127,1089,153"/>
+</map>

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test9.dir/test9.c.o -o test9  -Wl,-rpath,/home/fadwaj/paho.mqtt.c/build/src ../src/libpaho-mqtt3a.so.1.2.1 -lc -ldl -lpthread 
